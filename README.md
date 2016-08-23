@@ -1,6 +1,6 @@
 README.md
 
-#HTML Bank
+#HTML: Bank
 
 
 ## Description
@@ -9,9 +9,9 @@ Create an HTML form page including text areas, radio buttons, checkbox, and link
 ## How to run
 in your terminal run:
 '''
-http-server -p 8080
+http-server -p 9999
 '''
-then navigate to http://localhost.8080 in your browser.
+then navigate to [http://localhost:9999](http://localhost:9999) in your browser.
 
 
 ## Contributors
